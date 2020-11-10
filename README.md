@@ -7,7 +7,7 @@ Im too lazy and busy for this. Expect something here in like... a decade... mayb
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: NodeJs
+- 🔭 I’m currently working on: Microservices with nodejs
 - 🌱 I’m currently learning: Frontend technologies, devops related technologies.
 - 👯 I’m looking to collaborate on: NodeJs.
 - 🤔 I’m looking for help with: NodeJS.
