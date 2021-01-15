@@ -7,8 +7,8 @@ Im too lazy and busy for this. Expect something here in like... a decade... mayb
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: Microservices with nodejs
-- 🌱 I’m currently learning: Frontend technologies, devops related technologies.
+- 🔭 I’m currently working on: Microservices architecture, NodeJS
+- 🌱 I’m currently learning: Frontend technologies, Docker, k8s.
 - 👯 I’m looking to collaborate on: NodeJs.
 - 🤔 I’m looking for help with: NodeJS.
 - 💬 Ask me about: How to overthink and feel bad about yourself for no reason at all.
