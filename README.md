@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I have a name.
 - ⚡ Fun fact: I'm interestingly boring.
 -->
-By the way, don't get fooled. 'Thats' a cronjob. Not me.
+By the way, do not be fooled. 'Thats' a cronjob. Not me.
