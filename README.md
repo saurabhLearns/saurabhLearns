@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: NodeJS.
 - 💬 Ask me about: How to overthink and feel bad about yourself for no reason at all.
 - 📫 How to reach me: mail me mf.
-- 😄 Pronouns: I have a name.
+- 😄 Pronouns: I'm a straight male.
 - ⚡ Fun fact: I'm interestingly boring.
 -->
 By the way, do not be fooled. 'Thats' a cronjob. Not me.
