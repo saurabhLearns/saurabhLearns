@@ -2,6 +2,8 @@
 
 Im too lazy and busy for this. Expect something here in like... a decade... maybe? or more than that? I donnow.
 
+By the way, Connect me on [LinkedIn](https://linkedin.com/in/sljagtap)!
+
 <!--
 **ShuRiknS/ShuRiknS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I'm a straight male.
 - ⚡ Fun fact: I'm interestingly boring.
 -->
-By the way, do not be fooled. 'Thats' a cronjob. Not me.
