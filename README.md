@@ -2,7 +2,7 @@
 
 Im too lazy and busy for this. Expect something here in like... a decade... maybe? or more than that? I donnow.
 
-By the way, Connect me on [LinkedIn](https://linkedin.com/in/sljagtap)!
+By the way, Connect with me on [LinkedIn](https://linkedin.com/in/sljagtap)!
 
 <!--
 **ShuRiknS/ShuRiknS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
